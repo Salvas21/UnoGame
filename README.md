@@ -7,8 +7,9 @@ Incoming.
 
 ## Technologies
 - Java OOP functionnalities
+- Custom spritesheets for player and enemies made in [GIMP](https://www.gimp.org). 
+- Map created with the help of [Tiled](https://www.mapeditor.org).
 - Collisions files in JSON
-- Custom spritesheets for player, enemies. Map created with the help of [Tiled](https://www.mapeditor.org).
 
 ## Configuration
 - IntelliJ IDEA Community Edition
