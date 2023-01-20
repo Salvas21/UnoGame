@@ -1,17 +1,31 @@
 # Uno Game
 ## Concept
-I made this game using a custom engine that my [teacher](https://github.com/dadajuice) made in Java. As a change color card, your goal is to defeat, by throwing normal numbers cards, all of the +4 cards and destroy the leader of the +4s. There is a little puzzle to be able to advance to the end section, a secret throwing cards upgrade and an easter egg about a game from another student of my class.
+Il fallait concevoir un jeu Java en utilisant un game engine custom fait avec l'aide de notre [professeur](https://github.com/dadajuice) pendant les cours. Le jeu consiste a jouer en tant qu'une carte change de couleur du jeu Uno, qui doit combattre les cartes +4 ainsi que leur chef. Il y a un puzzle a régler avant de pouvoir accéder à la section finale du jeu ainsi qu'une amélioration cachée de l'attaque de base et un easter egg faisant référence à un jeu d'un autre élève.
 
-## Video
-Incoming.
+## Média(s)
+
+### Première section
+![home](images-readme/closed.png)
+
+### Sablier
+![home](images-readme/hourglass.png)
+
+### Ennemis
+![home](images-readme/enemies.png)
+
+### Deuxième section
+![home](images-readme/open.png)
+
+### Amélioration attaque
+![home](images-readme/weapon.png)
+
+### Boss
+![home](images-readme/boss.png)
 
 ## Technologies
-- Java OOP functionnalities
-- Custom spritesheets for player and enemies made in [GIMP](https://www.gimp.org). 
-- Map created with the help of [Tiled](https://www.mapeditor.org).
-- Collisions files in JSON
-
-## Configuration
-- IntelliJ IDEA Community Edition
-- Java 13 SDK
-- Maven
+- Java
+- Spritesheets custom pour le joueur et les ennemis fait avec [GIMP](https://www.gimp.org). 
+- Carte de jeu créée avec [Tiled](https://www.mapeditor.org).
+- Fichier de collisions en JSON
+- Pathfinding très rudimentaire
+- Musique de fond et sons d'actions
